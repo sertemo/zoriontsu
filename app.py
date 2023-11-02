@@ -23,7 +23,7 @@ NOMBRE_COMPLETO = "Siro Bayón"
 NOMBRE = NOMBRE_COMPLETO.split()[0]
 EDAD = 39
 ZONA = pytz.timezone("Europe/Madrid")
-FECHA_CUMPLEAÑOS = datetime(2023,11,2)
+FECHA_CUMPLEAÑOS = datetime(2023,11,4)
 TEMA = """El viaje a Zaragoza para ver nuestro primer concierto de Metallica en el coche de Laorden. Fueron Laorden, Sergio y Siro. A la vuelta, \
     de madrugada, se oía un ruido muy fuerte y extraño en el coche. Resultaron ser unos auriculares que pegaban contra la carrocería."""
 
